@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot오류.md",
+                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot오류.md",
+                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot오류.md",
+                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot오류.md"
+                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md"
               }
             }
           }
@@ -159,14 +159,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15efafd148db0a10",
+  "active": "6ec7c38b1bacef3e",
   "lastOpenFiles": [
+    "SpringBoot오류.md",
+    "SpringBoot 홍팍/15) 데이터 수정하기.md",
     "SpringBoot 개념/톰캣.md",
     "img/Pasted image 20240308164920.png",
-    "SpringBoot오류.md",
     "img/Pasted image 20240308104839.png",
     "img/Pasted image 20240308105014.png",
-    "SpringBoot 홍팍/15) 데이터 수정하기.md",
     "SpringBoot 홍팍/04) 뷰 템플릿과 MVC패턴.md",
     "SpringBoot 홍팍/09) DB테이블과 SQL.md",
     "SpringBoot 홍팍/11) 데이터 조회하기 with JPA.md",
