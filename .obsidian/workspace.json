@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot 홍팍/16) 데이터 삭제하기.md",
+                "file": "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot 홍팍/16) 데이터 삭제하기.md",
+                "file": "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot 홍팍/16) 데이터 삭제하기.md",
+                "file": "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot 홍팍/16) 데이터 삭제하기.md"
+                "file": "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "b018af5a5aa9a5d7",
   "lastOpenFiles": [
+    "Pasted image 20240308211230.png",
+    "SpringBoot 홍팍/16) 데이터 삭제하기.md",
+    "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md",
     "Pasted image 20240308204413.png",
     "SpringBoot 홍팍/15) 데이터 수정하기.md",
-    "SpringBoot 홍팍/16) 데이터 삭제하기.md",
     "SpringBoot 홍팍/10) 롬복과 리팩터링.md",
     "SpringBoot 홍팍/07) 폼 데이터 주고 받기.md",
     "SpringBoot오류.md",
@@ -180,7 +182,6 @@
     "SpringBoot Inflean 개념과 활용/스프링 데이터/1부 소개.md",
     "SpringBoot Inflean 개념과 활용/스프링 데이터/12부 정리.md",
     "SpringBoot Inflean 개념과 활용/스프링 데이터/10부 MongoDB.md",
-    "SpringBoot Inflean 개념과 활용/2부 스프링 부트 시작하기.md",
     "img/Pasted image 20240226183606.png",
     "SpringBoot Inflean 개념과 활용/스프링 데이터",
     "img/Pasted image 20240122220358.png",
