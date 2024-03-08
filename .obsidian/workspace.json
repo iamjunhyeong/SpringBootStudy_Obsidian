@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md",
+                "file": "SpringBoot 홍팍/18) RestAPI와 JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md",
+                "file": "SpringBoot 홍팍/18) RestAPI와 JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md",
+                "file": "SpringBoot 홍팍/18) RestAPI와 JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md"
+                "file": "SpringBoot 홍팍/18) RestAPI와 JSON.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "b018af5a5aa9a5d7",
   "lastOpenFiles": [
+    "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md",
+    "SpringBoot 홍팍/18) RestAPI와 JSON.md",
     "Pasted image 20240308211230.png",
     "SpringBoot 홍팍/16) 데이터 삭제하기.md",
-    "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md",
     "Pasted image 20240308204413.png",
     "SpringBoot 홍팍/15) 데이터 수정하기.md",
     "SpringBoot 홍팍/10) 롬복과 리팩터링.md",
