@@ -18,3 +18,25 @@ JPA repository로 데이터에 접근 한다
 `spring.datasource.url=jdbc:h2:mem:testdb`
 
 
+
+## ID 자동 생성
+
+`DB`가 `id`를 자동 생성해준다
+
+```
+// Article.java
+
+. . .
+@Id // 대표값.. primary key  
+@GeneratedValue(strategy = GenerationType.IDENTITY) // 자동 생성 전략  
+private Long id;
+
+. . .
+
+```
+
+⭐ 동시에 `data.sql`에 id 부분을 삭제해주어야 한다.
+
+
+
+
