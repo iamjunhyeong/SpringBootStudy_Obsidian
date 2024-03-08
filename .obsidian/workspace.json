@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md",
+                "file": "SpringBoot 홍팍/07) 폼 데이터 주고 받기.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md",
+                "file": "SpringBoot 홍팍/07) 폼 데이터 주고 받기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md",
+                "file": "SpringBoot 홍팍/07) 폼 데이터 주고 받기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md"
+                "file": "SpringBoot 홍팍/07) 폼 데이터 주고 받기.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "6ec7c38b1bacef3e",
   "lastOpenFiles": [
-    "SpringBoot오류.md",
     "SpringBoot 홍팍/15) 데이터 수정하기.md",
+    "SpringBoot오류.md",
     "SpringBoot 개념/톰캣.md",
     "img/Pasted image 20240308164920.png",
     "img/Pasted image 20240308104839.png",
