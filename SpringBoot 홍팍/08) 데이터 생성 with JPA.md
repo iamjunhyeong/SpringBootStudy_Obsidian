@@ -126,6 +126,12 @@ public class ArticleController {
 
 ### 4. Repository 작성
 
+## 📝 Repository
+
+- JPA에서의 **DB Layer 접근자**를 의미한다.
+- **인터페이스**를 생성 후 `JpaRepository<Entity 클래스, PK 타입>`을 상속하면 기본적인 CRUD 메소드가 자동으로 생성된다.
+- `@Repository`를 추가할 필요가 없다.
+
 ```
 package com.example.springboot_hongpark.repository;
 
