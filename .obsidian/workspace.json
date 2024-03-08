@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot 홍팍/13) 링크와 리다이렉트.md",
+                "file": "SpringBoot 홍팍/14) 수정 폼 만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot 홍팍/13) 링크와 리다이렉트.md",
+                "file": "SpringBoot 홍팍/14) 수정 폼 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot 홍팍/13) 링크와 리다이렉트.md",
+                "file": "SpringBoot 홍팍/14) 수정 폼 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot 홍팍/13) 링크와 리다이렉트.md"
+                "file": "SpringBoot 홍팍/14) 수정 폼 만들기.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "6ec7c38b1bacef3e",
   "lastOpenFiles": [
-    "SpringBoot 홍팍/09) DB테이블과 SQL.md",
     "SpringBoot 홍팍/13) 링크와 리다이렉트.md",
+    "SpringBoot 홍팍/14) 수정 폼 만들기.md",
+    "SpringBoot 홍팍/09) DB테이블과 SQL.md",
     "SpringBoot 홍팍/08) 데이터 생성 with JPA.md",
     "SpringBoot 홍팍/07) 폼 데이터 주고 받기.md",
     "Pasted image 20240308105014.png",
