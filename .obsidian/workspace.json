@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md",
+                "file": "SpringBoot 개념/톰캣.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md",
+                "file": "SpringBoot 개념/톰캣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md",
+                "file": "SpringBoot 개념/톰캣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot 홍팍/15) 데이터 수정하기.md"
+                "file": "SpringBoot 개념/톰캣.md"
               }
             }
           }
@@ -161,9 +161,13 @@
   },
   "active": "6ec7c38b1bacef3e",
   "lastOpenFiles": [
-    "Pasted image 20240308164920.png",
-    "SpringBoot 홍팍/04) 뷰 템플릿과 MVC패턴.md",
+    "img/Pasted image 20240308164920.png",
+    "SpringBoot오류.md",
+    "img/Pasted image 20240308104839.png",
+    "img/Pasted image 20240308105014.png",
+    "SpringBoot 개념/톰캣.md",
     "SpringBoot 홍팍/15) 데이터 수정하기.md",
+    "SpringBoot 홍팍/04) 뷰 템플릿과 MVC패턴.md",
     "SpringBoot 홍팍/09) DB테이블과 SQL.md",
     "SpringBoot 홍팍/11) 데이터 조회하기 with JPA.md",
     "SpringBoot 홍팍/10) 롬복과 리팩터링.md",
@@ -171,13 +175,9 @@
     "SpringBoot 홍팍/14) 수정 폼 만들기.md",
     "SpringBoot 홍팍/13) 링크와 리다이렉트.md",
     "SpringBoot 홍팍/07) 폼 데이터 주고 받기.md",
-    "Pasted image 20240308105014.png",
-    "Pasted image 20240308104839.png",
     "SpringBoot 홍팍/06) 뷰 템플릿과 레이아웃.md",
     "SpringBoot 홍팍/05) MVC의 역할과 실행 흐름.md",
     "SpringBoot 홍팍/12) 데이터 목록조회.md",
-    "SpringBoot오류.md",
-    "SpringBoot 개념/톰캣.md",
     "Tip.md",
     "5.4 어노테이션 기반으로 개선하기.md",
     "Spring.md",
