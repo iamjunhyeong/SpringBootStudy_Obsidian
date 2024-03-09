@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot 홍팍/19) HTTP와 RestController.md",
+                "file": "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot 홍팍/19) HTTP와 RestController.md",
+                "file": "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot 홍팍/19) HTTP와 RestController.md",
+                "file": "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot 홍팍/19) HTTP와 RestController.md"
+                "file": "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md"
               }
             }
           }
@@ -148,6 +148,15 @@
   },
   "active": "b018af5a5aa9a5d7",
   "lastOpenFiles": [
+    "SpringBoot 홍팍/19) HTTP와 RestController.md",
+    "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md",
+    "SpringBoot 홍팍/10) 롬복과 리팩터링.md",
+    "SpringBoot 홍팍/09) DB테이블과 SQL.md",
+    "SpringBoot 홍팍/08) 데이터 생성 with JPA.md",
+    "SpringBoot 홍팍/07) 폼 데이터 주고 받기.md",
+    "SpringBoot 홍팍/06) 뷰 템플릿과 레이아웃.md",
+    "SpringBoot 홍팍/05) MVC의 역할과 실행 흐름.md",
+    "SpringBoot 홍팍/04) 뷰 템플릿과 MVC패턴.md",
     "Pasted image 20240309142201.png",
     "Pasted image 20240309141932.png",
     "Pasted image 20240309141122.png",
@@ -155,7 +164,6 @@
     "Pasted image 20240309140905.png",
     "Pasted image 20240309140837.png",
     "SpringBoot 홍팍/18) RestAPI와 JSON.md",
-    "SpringBoot 홍팍/19) HTTP와 RestController.md",
     "SpringBoot 홍팍/15) 데이터 수정하기.md",
     "SpringBoot 홍팍/16) 데이터 삭제하기.md",
     "SpringBoot 홍팍/13) 링크와 리다이렉트.md",
@@ -163,19 +171,11 @@
     "SpringBoot 홍팍/17) CRUD와 SQL쿼리.md",
     "Pasted image 20240308211230.png",
     "Pasted image 20240308204413.png",
-    "SpringBoot 홍팍/10) 롬복과 리팩터링.md",
-    "SpringBoot 홍팍/07) 폼 데이터 주고 받기.md",
     "SpringBoot오류.md",
     "SpringBoot 개념/톰캣.md",
     "img/Pasted image 20240308164920.png",
     "img/Pasted image 20240308104839.png",
-    "img/Pasted image 20240308105014.png",
-    "SpringBoot 홍팍/04) 뷰 템플릿과 MVC패턴.md",
-    "SpringBoot 홍팍/09) DB테이블과 SQL.md",
     "SpringBoot 홍팍/11) 데이터 조회하기 with JPA.md",
-    "SpringBoot 홍팍/08) 데이터 생성 with JPA.md",
-    "SpringBoot 홍팍/06) 뷰 템플릿과 레이아웃.md",
-    "SpringBoot 홍팍/05) MVC의 역할과 실행 흐름.md",
     "SpringBoot 홍팍/12) 데이터 목록조회.md",
     "Tip.md",
     "5.4 어노테이션 기반으로 개선하기.md",
