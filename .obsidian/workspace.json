@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md",
+                "file": "SpringBoot 홍팍/21) 테스트 작성.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md",
+                "file": "SpringBoot 홍팍/21) 테스트 작성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md",
+                "file": "SpringBoot 홍팍/21) 테스트 작성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md"
+                "file": "SpringBoot 홍팍/21) 테스트 작성.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "b018af5a5aa9a5d7",
   "lastOpenFiles": [
-    "SpringBoot 홍팍/14) 수정 폼 만들기.md",
+    "Pasted image 20240309181133.png",
+    "Pasted image 20240309181053.png",
     "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md",
+    "SpringBoot 홍팍/21) 테스트 작성.md",
+    "SpringBoot 홍팍/14) 수정 폼 만들기.md",
     "SpringBoot 홍팍/18) RestAPI와 JSON.md",
     "SpringBoot 홍팍/19) HTTP와 RestController.md",
     "Pasted image 20240309161801.png",
@@ -168,7 +171,6 @@
     "img/Pasted image 20240309141122.png",
     "img/Pasted image 20240309141106.png",
     "img/Pasted image 20240309140905.png",
-    "img/Pasted image 20240309140837.png",
     "SpringBoot 홍팍/15) 데이터 수정하기.md",
     "SpringBoot 홍팍/16) 데이터 삭제하기.md",
     "SpringBoot 홍팍/13) 링크와 리다이렉트.md",
@@ -184,7 +186,6 @@
     "``.canvas",
     "SpringBoot 홍팍",
     "SpringBoot Inflean 개념과 활용/스프링 데이터/3부 MySQL.md",
-    "SpringBoot Inflean 개념과 활용/스프링 데이터/2부 인메모리 데이터베이스.md",
     "SpringBoot Inflean 개념과 활용/스프링 데이터",
     "SpringBoot Inflean 개념과 활용/스프링 웹 MVC",
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용",
