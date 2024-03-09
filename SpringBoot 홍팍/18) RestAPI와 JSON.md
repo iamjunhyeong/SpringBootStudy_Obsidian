@@ -23,6 +23,8 @@ REST의 원리를 따르는 API를 의미한다.
 #### XML과 JSON
  XML : 사용자 정의 `html`
 
-JSON : `javascript를` 차용한 객체 표현식
+JSON : `javascript`를 차용한 객체 표현식
 
+
+### JSON-Placeholder
 
