@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot 홍팍/21) 테스트 작성.md",
+                "file": "SpringBoot 홍팍/22) 댓글 Entity와 Repository (feat. Test).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot 홍팍/21) 테스트 작성.md",
+                "file": "SpringBoot 홍팍/22) 댓글 Entity와 Repository (feat. Test).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot 홍팍/21) 테스트 작성.md",
+                "file": "SpringBoot 홍팍/22) 댓글 Entity와 Repository (feat. Test).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot 홍팍/21) 테스트 작성.md"
+                "file": "SpringBoot 홍팍/22) 댓글 Entity와 Repository (feat. Test).md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "b018af5a5aa9a5d7",
   "lastOpenFiles": [
-    "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md",
     "SpringBoot 홍팍/21) 테스트 작성.md",
+    "SpringBoot 홍팍/22) 댓글 Entity와 Repository (feat. Test).md",
+    "SpringBoot 홍팍/20) 서비스 계층과 트랜잭션.md",
     "Pasted image 20240309200649.png",
     "Pasted image 20240309181133.png",
     "Pasted image 20240309181053.png",
