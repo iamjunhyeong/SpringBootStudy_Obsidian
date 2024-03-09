@@ -43,3 +43,13 @@ public class FirstApiController {
 ### RestAPI - GET
 
 
+
+### RestAPI - POST
+### @RequestBody
+- Requset의 Body에서 값을 받아온다.
+- JSON형태로 POST로 데이터를 생성하려고 할때 Controller에서 사용하여 값을 받아야 제대로 나옴.
+
+### RestAPI - PATCH
+
+
+### RestAPI - DELETE
