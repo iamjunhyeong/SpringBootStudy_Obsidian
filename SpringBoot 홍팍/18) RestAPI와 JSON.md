@@ -16,11 +16,12 @@
 
 ## RestAPI란?
 
-REST의 원리를 따르는 API를 의미한다.
+- REST의 원리를 따르는 API를 의미한다.
 
-클라이언트에 구애받지않고 다양한 기기에서 호환을 가능하게 함.
+- 클라이언트에 구애받지않고 다양한 기기에서 호환을 가능하게 함.
 
-#### XML과 JSON
+- JSON 형태로 reponse 받는다
+#### > XML과 JSON
  XML : 사용자 정의 `html`
 
 JSON : `javascript`를 차용한 객체 표현식
@@ -31,6 +32,28 @@ JSON : `javascript`를 차용한 객체 표현식
 1. chome 확장 `Talend API tester` 설치
 
 2. GET `https://jsonplaceholder.typicode.com/posts` 으로 게시글 100개 JSON으로 받기
+	- 응답 성공시 status : 200 
+	- 실패시 500, 404, ..
 
+4. POST로 데이터 생성
+```
+{
+	title : "제목",
+	body : "내용",
+	id : 101
+}
+```
+- 응답 성공시 status : 201
+- 실패시 500, ..
 
+5. PATCH로 수정
+```
+{
+	title : "제목수정",
+	body : "내용수정",
+	id : 101
+}
+```
+- 성공시 200
 
+6. Delete로 삭제
