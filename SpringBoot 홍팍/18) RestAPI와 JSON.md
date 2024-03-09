@@ -28,3 +28,9 @@ JSON : `javascript`를 차용한 객체 표현식
 
 ### JSON-Placeholder
 
+1. chome 확장 `Talend API tester` 설치
+
+2. GET `https://jsonplaceholder.typicode.com/posts` 으로 게시글 100개 JSON으로 받기
+
+
+
