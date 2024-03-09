@@ -29,9 +29,17 @@ public class FirstApiController {
 ```
 해당 url은 `hello world!`를 띄우고있다.
 
-Talent Api tester에 가서 GET 해본다.
+#### Talent Api tester에서 GET해보기
 
-`http://jsonplaceholder.typicode.com/api/hello`
+`http://localhost:8080/api/hello`
 ⭐ 이때 우리는 HTTPS가 아닌  HTTP 이므로  수정해준다.
+![[Pasted image 20240309141932.png]]
+
+### RestController와 Controller 차이
+
+반환 타입이 다른것을 확인할 수 있다.
+![[Pasted image 20240309142201.png]] 일반 Controller의 반환
+
+### RestAPI - GET
 
 
