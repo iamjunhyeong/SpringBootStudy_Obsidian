@@ -18,3 +18,6 @@ FK 컬럼 이름을 다음과 같이 설정.
 Paging & Sorting methods
 + CrudRepository 기능보다 더 많은 기능지원
 
+## Test
+### @DisplayName
+테스트 결과에 보여줄 이름 설
