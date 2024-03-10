@@ -14,3 +14,7 @@ CRUD 기능 뿐만 아니라 데이터 정렬 & 조회도 가
 ### @JoinColumn(name = "article_id")
 FK 컬럼 이름을 다음과 같이 설정.
 
+### JpaRepository
+Paging & Sorting methods
++ CrudRepository 기능보다 더 많은 기능지원
+
