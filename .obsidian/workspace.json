@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/18) RestAPI와 JSON.md",
+                "file": "SpringBoot Inflean 홍팍/24) 댓글 목록 View 만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/18) RestAPI와 JSON.md",
+                "file": "SpringBoot Inflean 홍팍/24) 댓글 목록 View 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/18) RestAPI와 JSON.md",
+                "file": "SpringBoot Inflean 홍팍/24) 댓글 목록 View 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/18) RestAPI와 JSON.md"
+                "file": "SpringBoot Inflean 홍팍/24) 댓글 목록 View 만들기.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15efafd148db0a10",
+  "active": "b018af5a5aa9a5d7",
   "lastOpenFiles": [
-    "SpringBoot Inflean 홍팍/23) 댓글 서비스와 컨트롤러.md",
-    "Pasted image 20240310170723.png",
+    "img/Pasted image 20240309141122.png",
+    "img/Pasted image 20240310170723.png",
+    "SpringBoot Inflean 홍팍/24) 댓글 목록 View 만들기.md",
+    "img/Pasted image 20240310182245.png",
     "SpringBoot Inflean 홍팍/18) RestAPI와 JSON.md",
+    "SpringBoot Inflean 홍팍/23) 댓글 서비스와 컨트롤러.md",
     "SpringBoot Inflean 홍팍/20) 서비스 계층과 트랜잭션.md",
     "SpringBoot Inflean 홍팍/19) HTTP와 RestController.md",
     "SpringBoot Inflean 홍팍/22) 댓글 Entity와 Repository (feat. Test).md",
@@ -168,7 +171,6 @@
     "SpringBoot Inflean 홍팍/14) 수정 폼 만들기.md",
     "img/Pasted image 20240309161801.png",
     "img/Pasted image 20240309161735.png",
-    "img/Pasted image 20240308204413.png",
     "SpringBoot Inflean 홍팍/10) 롬복과 리팩터링.md",
     "SpringBoot Inflean 홍팍/09) DB테이블과 SQL.md",
     "SpringBoot Inflean 홍팍/08) 데이터 생성 with JPA.md",
@@ -182,7 +184,6 @@
     "SpringBoot Inflean 홍팍/17) CRUD와 SQL쿼리.md",
     "SpringBoot 개념/톰캣.md",
     "SpringBoot Inflean 홍팍/11) 데이터 조회하기 with JPA.md",
-    "SpringBoot Inflean 홍팍/12) 데이터 목록조회.md",
     "``.canvas",
     "SpringBoot Inflean 홍팍",
     "SpringBoot Inflean 개념과 활용/스프링 데이터",
