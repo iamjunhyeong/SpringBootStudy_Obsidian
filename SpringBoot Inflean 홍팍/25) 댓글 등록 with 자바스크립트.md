@@ -27,7 +27,7 @@ const commentCreateBtn = document.querySelector("#comment-create-btn");
 
 ### fetch
 
-Talend API 요청을 JavaScript로 보내준다!
+`Talend API 요청`을 `JavaScript`로 보내준다!
 
 ```
 const url = "/api/articles/" + comment.article_id + "/comments";
