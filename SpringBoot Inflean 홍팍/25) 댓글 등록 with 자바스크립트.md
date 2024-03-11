@@ -16,6 +16,44 @@ JS를 사용하여 HTTP 요청을 보낸다.
 
 ![[Pasted image 20240311134018.png]]
 
+###  querySelector
+
+해당 내용을 변수화 시키는 함수이다!
+
+```
+// 댓글 생성 버튼 변수화(id가 comment-create-btn인 대상)  
+const commentCreateBtn = document.querySelector("#comment-create-btn");
+```
+
+### fetch
+
+Talend API 요청을 JavaScript로 보내준다!
+
+```
+const url = "/api/articles/" + comment.article_id + "/comments";
+fetch(url, {
+	method: "post",     // POST 요청
+	body: JSON.stringify(comment),  // comment JS 객체를 JSON으로 변경하여 보냄
+	headers: {
+		"Content-Type": "application/json"
+	}
+})
+```
+
+### addEventListener
+
+이벤트을 감지하는 함수!
+
+다음 함수는 click 이벤트를 감지하고 있다
+```
+commentCreateBtn.addEventListener("click", function () {
+
+. . . 
+
+});
+```
+
+
 ## new.mustache 작성
 
 ```
@@ -82,22 +120,3 @@ JS를 사용하여 HTTP 요청을 보낸다.
     }
 </script>
 ```
-
-###  querySelector
-
-
-### fetch
-
-Talend API 요청을 JavaScript로 보내준다!
-
-```
-const url = "/api/articles/" + comment.article_id + "/comments";
-fetch(url, {
-	method: "post",     // POST 요청
-	body: JSON.stringify(comment),  // comment JS 객체를 JSON으로 변경하여 보냄
-	headers: {
-		"Content-Type": "application/json"
-	}
-})
-```
-
