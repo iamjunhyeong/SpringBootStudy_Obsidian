@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md",
+                "file": "SpringBoot Inflean 홍팍/26) 댓글 수정 with 자바스크립트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md",
+                "file": "SpringBoot Inflean 홍팍/26) 댓글 수정 with 자바스크립트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md",
+                "file": "SpringBoot Inflean 홍팍/26) 댓글 수정 with 자바스크립트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md"
+                "file": "SpringBoot Inflean 홍팍/26) 댓글 수정 with 자바스크립트.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "a28d534673f4473a",
   "lastOpenFiles": [
+    "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md",
     "Pasted image 20240311151436.png",
     "Pasted image 20240311151425.png",
     "SpringBoot Inflean 홍팍/26) 댓글 수정 with 자바스크립트.md",
-    "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md",
     "Pasted image 20240311141945.png",
     "Pasted image 20240311140641.png",
     "Pasted image 20240311134029.png",
@@ -174,7 +174,6 @@
     "README.md",
     "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
     "SpringBoot 개념/Inversion of Control.md",
-    "img/Pasted image 20240309161505.png",
     "SpringBoot오류.md",
     "SpringBoot Inflean 홍팍/14) 수정 폼 만들기.md",
     "SpringBoot Inflean 홍팍/09) DB테이블과 SQL.md",
