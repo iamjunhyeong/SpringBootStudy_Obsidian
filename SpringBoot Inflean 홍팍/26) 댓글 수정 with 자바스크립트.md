@@ -132,6 +132,8 @@ commentEditModal.addEventListener("show.bs.modal", function(event) {
 ```
 
 
+
+#### 전체 코드
 ```
 <!--Bootstrap에 양식 틀이 주어진다.-->
 <!-- 모달 이벤트 처리 -->
