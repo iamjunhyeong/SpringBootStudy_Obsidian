@@ -11,8 +11,12 @@
             "id": "a28d534673f4473a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/08) 데이터 생성 with JPA.md",
+                "file": "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/08) 데이터 생성 with JPA.md",
+                "file": "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/08) 데이터 생성 with JPA.md"
+                "file": "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md"
               }
             }
           }
@@ -142,45 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "floating": {
-    "id": "d88fed0a55ebad8f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2eab43916cc84641",
-        "type": "window",
-        "children": [
-          {
-            "id": "d936590fb260f031",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b018af5a5aa9a5d7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "SpringBoot Inflean 홍팍/08) 데이터 생성 with JPA.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 586,
-        "y": 476,
-        "width": 784,
-        "height": 766,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b018af5a5aa9a5d7",
+  "active": "a28d534673f4473a",
   "lastOpenFiles": [
+    "Pasted image 20240311134029.png",
+    "Pasted image 20240311134018.png",
+    "Pasted image 20240311133958.png",
+    "SpringBoot 개념/톰캣.md",
+    "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md",
+    "SpringBoot Inflean 홍팍/08) 데이터 생성 with JPA.md",
     "SpringBoot Inflean 홍팍/13) 링크와 리다이렉트.md",
     "SpringBoot Inflean 홍팍/10) 롬복과 리팩터링.md",
     "SpringBoot Inflean 홍팍/24) 댓글 목록 View 만들기.md",
@@ -202,11 +175,8 @@
     "img/Pasted image 20240309205150.png",
     "img/Pasted image 20240309200649.png",
     "img/Pasted image 20240309181133.png",
-    "img/Pasted image 20240309181053.png",
     "SpringBoot Inflean 홍팍/14) 수정 폼 만들기.md",
-    "img/Pasted image 20240309161801.png",
     "SpringBoot Inflean 홍팍/09) DB테이블과 SQL.md",
-    "SpringBoot Inflean 홍팍/08) 데이터 생성 with JPA.md",
     "SpringBoot Inflean 홍팍/07) 폼 데이터 주고 받기.md",
     "SpringBoot Inflean 홍팍/06) 뷰 템플릿과 레이아웃.md",
     "SpringBoot Inflean 홍팍/05) MVC의 역할과 실행 흐름.md",
@@ -214,8 +184,6 @@
     "SpringBoot Inflean 홍팍/15) 데이터 수정하기.md",
     "SpringBoot Inflean 홍팍/16) 데이터 삭제하기.md",
     "SpringBoot Inflean 홍팍/17) CRUD와 SQL쿼리.md",
-    "SpringBoot 개념/톰캣.md",
-    "SpringBoot Inflean 홍팍/11) 데이터 조회하기 with JPA.md",
     "``.canvas",
     "SpringBoot Inflean 홍팍",
     "SpringBoot Inflean 개념과 활용/스프링 데이터",
