@@ -12,3 +12,8 @@ const commentDeleteBtns = document.querySelectorAll(".comment-delete-btn");
 
 하나만 가져오는 querySelector와 달리 여러개를 가져온다.
 
+```
+
+```
+
+#### target.remove와 window.location.reload() 차
