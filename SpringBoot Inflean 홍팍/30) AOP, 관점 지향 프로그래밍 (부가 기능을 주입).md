@@ -206,3 +206,8 @@ create -> * 로 변경
 ![[Pasted image 20240313152535.png]]
 
 
+
+update()와 같이 다른 코드가 없어도 AOP를 통해 부가 기능을 넣어줄 수 있다!
+![[Pasted image 20240313153051.png]]
+
+
