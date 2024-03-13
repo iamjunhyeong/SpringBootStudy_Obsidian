@@ -11,11 +11,9 @@
             "id": "1f622be52a41dfb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "HTTP Inflean/인터넷 네트워크/인터넷 네트워크.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20240314004532.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP Inflean/인터넷 네트워크/인터넷 네트워크.md",
+                "file": "img/Pasted image 20240314004532.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP Inflean/인터넷 네트워크/인터넷 네트워크.md",
+                "file": "img/Pasted image 20240314004532.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP Inflean/인터넷 네트워크/인터넷 네트워크.md"
+                "file": "img/Pasted image 20240314004532.png"
               }
             }
           }
@@ -146,22 +144,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1f622be52a41dfb5",
+  "active": "15efafd148db0a10",
   "lastOpenFiles": [
-    "Pasted image 20240314004806.png",
-    "Pasted image 20240314004552.png",
-    "Pasted image 20240314004532.png",
+    "HTTP Inflean/URI와 웹 브라우저 요청 흐름",
+    "HTTP Inflean/1) 인터넷 네트워크/인터넷 네트워크.md",
+    "img/Pasted image 20240314005301.png",
+    "img/Pasted image 20240314005245.png",
+    "img/Pasted image 20240314005229.png",
+    "img/Pasted image 20240314005211.png",
+    "img/Pasted image 20240314005203.png",
+    "img/Pasted image 20240314004806.png",
+    "img/Pasted image 20240314004552.png",
+    "img/Pasted image 20240314004532.png",
     "img/Pasted image 20240314001938.png",
-    "HTTP Inflean/인터넷 네트워크/인터넷 네트워크.md",
     "img/Pasted image 20240314004454.png",
-    "img/Pasted image 20240314004037.png",
-    "img/Pasted image 20240314004010.png",
-    "img/Pasted image 20240314003804.png",
-    "img/Pasted image 20240314003749.png",
-    "img/Pasted image 20240314003422.png",
-    "img/Pasted image 20240314003137.png",
     "HTTP Inflean/인터넷 네트워크/2).md",
-    "HTTP Inflean/인터넷 네트워크",
+    "HTTP Inflean/1) 인터넷 네트워크",
     "img/스프링 시큐리티 2부.md",
     "HTTP Inflean",
     "img/스프링 시큐리티 1부.md",
