@@ -97,3 +97,5 @@ System.out.println(jsonNode.toPrettyString());
 
 ## JSON을 객체로 
 ![[Pasted image 20240313192707.png]]
+
+#### readValue(json, 클래스.class)
