@@ -24,3 +24,74 @@ AOP는 **로깅, 보안, 트랜잭션 관리** 등 다양한 분야에서 활�
 
 **주요 어노테이션**
 ![[Pasted image 20240313143649.png]]
+
+
+먼저 이번 테스트에서는 h2db를 사용한다
+```
+# 09강: h2 DB, 웹 콘솔 설정
+spring.h2.console.enabled=true
+# 15강: data.sql 적용을 위한 설정(스프링부트 2.5 이상)
+spring.jpa.defer-datasource-initialization=true
+# 17강: JPA 로깅 설정
+## 디버그 레벨로 쿼리 출력
+logging.level.org.hibernate.SQL=DEBUG
+## 이쁘게 보여주기
+spring.jpa.properties.hibernate.format_sql=true
+## 파라미터 보여주기
+logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
+## 고정 url 설정
+## 30강
+spring.datasource.url=jdbc:h2:mem:testdb
+# 28강: PostgreSQL 연동
+#spring.datasource.url=jdbc:postgresql://localhost:5432/firstproject_db
+#spring.datasource.username=postgres
+#spring.datasource.password=postgres
+spring.datasource.data=classpath:/data.sql
+## 30강
+spring.datasource.initialization-mode=always
+spring.jpa.hibernate.ddl-auto=create-drop
+```
+
+
+## 기존 코드의 문제점
+
+```
+...
+@Slf4j
+@Service
+public class CommentService {
+
+    @Autowired
+    private CommentRepository commentRepository;
+
+    @Autowired
+    private ArticleRepository articleRepository;
+    ...
+    @Transactional
+    public CommentDto create(Long articleId, CommentDto dto) {
+        log.info("입력값 => {}", articleId);
+        log.info("입력값 => {}", dto);
+
+        // 게시글 조회(혹은 예외 발생)
+        Article article = articleRepository.findById(articleId)
+                .orElseThrow(() -> new IllegalArgumentException("댓글 생성 실패! 대상 게시글이 없습니."));
+
+        // 댓글 엔티티 생성
+        Comment comment = Comment.createComment(dto, article);
+
+        // 댓글 엔티티를 DB로 저장
+        Comment created = commentRepository.save(comment);
+
+        // DTO로 변경하여 반환
+//        return CommentDto.createCommentDto(created);
+        CommentDto createdDto = CommentDto.createCommentDto(created);
+        log.info("반환값 => {}", createdDto);
+        return createdDto;
+    }
+    ...
+}
+```
+
+다음과 같이 메소드마다 로그를 계속 찍어야하는 번거로움이 있다.
+
+
