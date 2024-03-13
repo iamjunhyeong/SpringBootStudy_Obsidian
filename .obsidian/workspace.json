@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
+                "file": "SpringBoot Inflean 홍팍/31) ObjectMapper (JSON을 객체로 변환).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
+                "file": "SpringBoot Inflean 홍팍/31) ObjectMapper (JSON을 객체로 변환).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
+                "file": "SpringBoot Inflean 홍팍/31) ObjectMapper (JSON을 객체로 변환).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md"
+                "file": "SpringBoot Inflean 홍팍/31) ObjectMapper (JSON을 객체로 변환).md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "a28d534673f4473a",
   "lastOpenFiles": [
+    "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
+    "SpringBoot Inflean 홍팍/31) ObjectMapper (JSON을 객체로 변환).md",
     "Pasted image 20240313153051.png",
     "Pasted image 20240313152535.png",
     "Pasted image 20240313143649.png",
     "Pasted image 20240313143216.png",
     "SpringBoot Inflean 홍팍/29) Ioc와 DI (객체를 주입한다).md",
-    "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
     "Pasted image 20240313140836.png",
     "Pasted image 20240313131119.png",
     "SpringBoot Inflean 홍팍/28) DB 연동하기.md",
@@ -168,7 +169,6 @@
     "SpringBoot Inflean 홍팍/26) 댓글 수정 with 자바스크립트.md",
     "SpringBoot Inflean 홍팍/25) 댓글 등록 with 자바스크립트.md",
     "img/Pasted image 20240311151436.png",
-    "img/Pasted image 20240311151425.png",
     "SpringBoot Inflean 홍팍/08) 데이터 생성 with JPA.md",
     "SpringBoot Inflean 홍팍/13) 링크와 리다이렉트.md",
     "SpringBoot Inflean 홍팍/10) 롬복과 리팩터링.md",
