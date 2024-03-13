@@ -24,6 +24,8 @@ commant 추가 시 log가 잘 뜬다
 ## 객체를 JSON으로
 ![[Pasted image 20240313192627.png]]
 
+## JSON을 객체로 
+![[Pasted image 20240313192707.png]]
 #### Burger.java
 ```
 package com.example.springboot_hongpark.objectmapper;
@@ -81,7 +83,6 @@ class BurgerTest {
 ```
 
 
-## JSON을 객체로 
-![[Pasted image 20240313192707.png]]
+## JsonNODE 활용하기
 
 
