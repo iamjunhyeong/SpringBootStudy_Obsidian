@@ -95,3 +95,10 @@ public class CommentService {
 다음과 같이 메소드마다 로그를 계속 찍어야하는 번거로움이 있다.
 
 
+## 입력값 로깅 AOP
+
+#### @Aspect
+AOP 클래스 선언 : 부가 기능을 주입하는 클래스
+
+#### @Component 
+Ioc 컨테이너가 해당 객체를 생성 및 관리
