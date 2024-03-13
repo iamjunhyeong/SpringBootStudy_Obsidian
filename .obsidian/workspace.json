@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/28) DB 연동하기.md",
+                "file": "SpringBoot Inflean 홍팍/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/28) DB 연동하기.md",
+                "file": "SpringBoot Inflean 홍팍/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/28) DB 연동하기.md",
+                "file": "SpringBoot Inflean 홍팍/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/28) DB 연동하기.md"
+                "file": "SpringBoot Inflean 홍팍/무제 파일.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a28d534673f4473a",
   "lastOpenFiles": [
-    "SpringBoot 개념/톰캣.md",
     "SpringBoot Inflean 홍팍/28) DB 연동하기.md",
+    "SpringBoot Inflean 홍팍/무제 파일.md",
+    "SpringBoot 개념/톰캣.md",
     "Pasted image 20240313021638.png",
     "SpringBoot Inflean 홍팍/27) 댓글 삭제 with 자바스크립트.md",
     "SpringBoot Inflean 홍팍/07) 폼 데이터 주고 받기.md",
