@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37081c6d485fdf58",
+        "id": "9a239305dd992721",
         "type": "tabs",
         "children": [
           {
-            "id": "a28d534673f4473a",
+            "id": "1f622be52a41dfb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,16 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a28d534673f4473a",
+  "active": "15efafd148db0a10",
   "lastOpenFiles": [
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/4부 스프링 부트 활용.md",
+    "SpringBoot Inflean 홍팍/29) Ioc와 DI (객체를 주입한다).md",
+    "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/Spring-Boot-Devtools.md",
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/테스트.md",
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/로깅.md",
     "SpringBoot Inflean 개념과 활용/2부 스프링 부트 시작하기.md",
     "SpringBoot Inflean 개념과 활용/스프링 시큐리티",
-    "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
     "SpringBoot Inflean 개념과 활용/3부 스프링 부트 원리.md",
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/프로파일.md",
     "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
@@ -171,7 +172,6 @@
     "img/Pasted image 20240313152535.png",
     "img/Pasted image 20240313143649.png",
     "img/Pasted image 20240313143216.png",
-    "SpringBoot Inflean 홍팍/29) Ioc와 DI (객체를 주입한다).md",
     "SpringBoot Inflean 홍팍/28) DB 연동하기.md",
     "SpringBoot 개념/톰캣.md",
     "SpringBoot Inflean 홍팍/27) 댓글 삭제 with 자바스크립트.md",
