@@ -190,3 +190,19 @@ public class DebuggingAspect {
 
 ## AOP 대상 범위 변경
 
+현재는 create메소드만 설정되어있어 생성할때만 log가 찍힌다.
+
+```null
+@Pointcut("execution(* com.example.firstproject.service.CommentService.create(..))")
+```
+
+create -> * 로 변경
+
+```null
+@Pointcut("execution(* com.example.firstproject.service.CommentService.*(..))")
+```
+
+이젠 업데이트 반환값도 log가 찍힌다!
+![[Pasted image 20240313152535.png]]
+
+
