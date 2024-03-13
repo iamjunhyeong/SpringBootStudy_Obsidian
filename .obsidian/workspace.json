@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/29) Ioc와 DI (객체를 주입한다).md",
+                "file": "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/29) Ioc와 DI (객체를 주입한다).md",
+                "file": "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/29) Ioc와 DI (객체를 주입한다).md",
+                "file": "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot Inflean 홍팍/29) Ioc와 DI (객체를 주입한다).md"
+                "file": "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "a28d534673f4473a",
   "lastOpenFiles": [
+    "Pasted image 20240313143649.png",
+    "Pasted image 20240313143216.png",
+    "SpringBoot Inflean 홍팍/29) Ioc와 DI (객체를 주입한다).md",
+    "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
     "Pasted image 20240313140836.png",
     "Pasted image 20240313131119.png",
     "SpringBoot Inflean 홍팍/28) DB 연동하기.md",
-    "SpringBoot Inflean 홍팍/29) Ioc와 DI (객체를 주입한다).md",
     "SpringBoot 개념/톰캣.md",
     "Pasted image 20240313021638.png",
     "SpringBoot Inflean 홍팍/27) 댓글 삭제 with 자바스크립트.md",
@@ -166,12 +169,10 @@
     "img/Pasted image 20240311151425.png",
     "img/Pasted image 20240311141945.png",
     "img/Pasted image 20240311140641.png",
-    "img/Pasted image 20240311134018.png",
     "SpringBoot Inflean 홍팍/08) 데이터 생성 with JPA.md",
     "SpringBoot Inflean 홍팍/13) 링크와 리다이렉트.md",
     "SpringBoot Inflean 홍팍/10) 롬복과 리팩터링.md",
     "SpringBoot Inflean 홍팍/24) 댓글 목록 View 만들기.md",
-    "img/Pasted image 20240309141122.png",
     "SpringBoot Inflean 홍팍/23) 댓글 서비스와 컨트롤러.md",
     "SpringBoot Inflean 홍팍/20) 서비스 계층과 트랜잭션.md",
     "SpringBoot Inflean 홍팍/19) HTTP와 RestController.md",
@@ -183,7 +184,6 @@
     "SpringBoot오류.md",
     "SpringBoot Inflean 홍팍/09) DB테이블과 SQL.md",
     "SpringBoot Inflean 홍팍/06) 뷰 템플릿과 레이아웃.md",
-    "SpringBoot Inflean 홍팍/05) MVC의 역할과 실행 흐름.md",
     "``.canvas",
     "SpringBoot Inflean 홍팍",
     "SpringBoot Inflean 개념과 활용/스프링 데이터",
