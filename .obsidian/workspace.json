@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md"
               }
             }
           }
@@ -148,20 +148,30 @@
   },
   "active": "a28d534673f4473a",
   "lastOpenFiles": [
+    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/4부 스프링 부트 활용.md",
+    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
+    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/Spring-Boot-Devtools.md",
+    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/테스트.md",
+    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/로깅.md",
+    "SpringBoot Inflean 개념과 활용/2부 스프링 부트 시작하기.md",
+    "SpringBoot Inflean 개념과 활용/스프링 시큐리티",
+    "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
+    "SpringBoot Inflean 개념과 활용/3부 스프링 부트 원리.md",
+    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/프로파일.md",
+    "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
+    "SpringBoot Inflean 홍팍/31) ObjectMapper (JSON을 객체로 변환).md",
+    "README.md",
     "img/Pasted image 20240313021638.png",
     "img/Pasted image 20240313131119.png",
-    "SpringBoot Inflean 홍팍/31) ObjectMapper (JSON을 객체로 변환).md",
     "img/Pasted image 20240313204301.png",
     "img/Pasted image 20240313192707.png",
     "img/Pasted image 20240313192627.png",
     "img/Pasted image 20240313192506.png",
-    "SpringBoot Inflean 홍팍/30) AOP, 관점 지향 프로그래밍 (부가 기능을 주입).md",
     "img/Pasted image 20240313153051.png",
     "img/Pasted image 20240313152535.png",
     "img/Pasted image 20240313143649.png",
     "img/Pasted image 20240313143216.png",
     "SpringBoot Inflean 홍팍/29) Ioc와 DI (객체를 주입한다).md",
-    "img/Pasted image 20240313140836.png",
     "SpringBoot Inflean 홍팍/28) DB 연동하기.md",
     "SpringBoot 개념/톰캣.md",
     "SpringBoot Inflean 홍팍/27) 댓글 삭제 with 자바스크립트.md",
@@ -175,15 +185,6 @@
     "SpringBoot Inflean 홍팍/10) 롬복과 리팩터링.md",
     "SpringBoot Inflean 홍팍/24) 댓글 목록 View 만들기.md",
     "SpringBoot Inflean 홍팍/23) 댓글 서비스와 컨트롤러.md",
-    "SpringBoot Inflean 홍팍/20) 서비스 계층과 트랜잭션.md",
-    "SpringBoot Inflean 홍팍/19) HTTP와 RestController.md",
-    "SpringBoot Inflean 홍팍/22) 댓글 Entity와 Repository (feat. Test).md",
-    "SpringBoot Inflean 홍팍/21) 테스트 작성.md",
-    "README.md",
-    "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
-    "SpringBoot 개념/Inversion of Control.md",
-    "SpringBoot오류.md",
-    "SpringBoot Inflean 홍팍/09) DB테이블과 SQL.md",
     "``.canvas",
     "SpringBoot Inflean 홍팍",
     "SpringBoot Inflean 개념과 활용/스프링 데이터",
