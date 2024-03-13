@@ -216,6 +216,25 @@ update()와 같이 다른 코드가 없어도 AOP를 통해 부가 기능을 넣
 #### @Around
 대상을 전후로 부가 기능을 삽입!
 
+`@Target`과 `@Retention`은 Java에서 사용되는 어노테이션으로,  
+컴파일러에서 다른 어노테이션을 처리하는 방법에 대한 추가 정보를 제공하는 데 사용된다.
+#### @Target
+어노테이션이 적용될 수 있는 **대상 요소 유형을 지정**하는 데 사용된다.  
+예를 들어, 어노테이션이 **클래스, 메서드 또는 필드**에 적용될 수 있는지 여부를 지정할 수 있다.
+
+#### @Retention
+- **@Retention**은 어노테이션의 **보존 정책을 지정**하는 데 사용된다.  
+- 이는 어노테이션이 컴파일된 클래스 파일에서 **유지되는 기간을 제어**한다.  
+- @Retention의 **옵션으로는 SOURCE, CLASS, RUNTIME**이 있으며,  **RUNTIME을 지정하면 어노테이션이 실행 시에도 유지**된다.
+
+#### RunningTime.java
+```
+@Target({ElementType.TYPE, ElementType.METHOD}) // 어노테이션 적용 대상  
+@Retention(RetentionPolicy.RUNTIME) // 어노테이션 유지 기간  
+public @interface RunningTime {  
+}
+```
+
 #### PerformanceAspect.java
 ```
 package com.example.springboot_hongpark.aop;
