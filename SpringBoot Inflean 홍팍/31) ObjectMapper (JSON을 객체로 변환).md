@@ -22,6 +22,12 @@ commant 추가 시 log가 잘 뜬다
 
 
 ## 객체를 JSON으로
+
+#### ObjectMapper
+
+##### wrtieValueAsString()
+자바 객체를 JSON으로 변환한다다
+
 ![[Pasted image 20240313192627.png]]
 
 #### Burger.java
@@ -98,7 +104,8 @@ System.out.println(jsonNode.toPrettyString());
 ## JSON을 객체로 
 ![[Pasted image 20240313192707.png]]
 
-#### readValue(json, 클래스.class)
+##### readValue(json, 클래스.class)
+JSON을 자바 객체로 변환
 
 #### BurgerTest.java
 ```
@@ -133,4 +140,40 @@ System.out.println(jsonNode.toPrettyString());
 ## JSON 직접 만들기
 
 
+#### ObjectNode
 
+##### objectMapper.createObjectNode()
+하나의 JSON 값을 만들 때 사용
+
+##### objectMapper.createArrayNode()
+JSON 배열을 만들때 사용
+
+
+```
+...
+        // 준비
+        ObjectMapper objectMapper = new ObjectMapper();
+//        String json = "{\"name\":\"맥도날드 슈비버거\",\"price\":5500,\"ingredients\":[\"통새우 패티\",\"순쇠고기 패티\",\"토마토\",\"스파이시 어니언 소스\"]}";
+        /*
+        {
+          "name" : "맥도날드 슈비버거",
+          "price" : 5500,
+          "ingredients" : [ "통새우 패티", "순쇠고기 패티", "토마토", "스파이시 어니언 소스" ]
+        }
+        */
+        ObjectNode objectNode = objectMapper.createObjectNode();
+        objectNode.put("name", "맥도날드 슈비버거");
+        objectNode.put("price", 5500);
+
+        ArrayNode arrayNode  = objectMapper.createArrayNode();
+        arrayNode.add("통새우 패티");
+        arrayNode.add("순쇠고기 패티");
+        arrayNode.add("토마토");
+        arrayNode.add("스파이시 어니언 소스");
+        objectNode.set("ingredients", arrayNode);
+        String json = objectNode.toString();
+        ...
+
+
+	}
+```
