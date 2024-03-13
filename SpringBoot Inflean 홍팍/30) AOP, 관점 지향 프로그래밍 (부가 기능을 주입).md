@@ -163,6 +163,9 @@ public class DebuggingAspect {
 
 ## 반환값 로깅 AOP
 
+#### @AfterReturning
+실행 시점 설정 : cut()에 지정된 대상 호출 성공 후이다
+
 ```
     // 실행 시점 설정 : cut()에 지정된 대상 호출 성공 후!
     @AfterReturning(value = "cut()", returning = "returnObj")
@@ -183,3 +186,7 @@ public class DebuggingAspect {
 
     }
 ```
+
+
+## AOP 대상 범위 변경
+
