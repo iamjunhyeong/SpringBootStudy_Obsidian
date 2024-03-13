@@ -163,3 +163,23 @@ public class DebuggingAspect {
 
 ## 반환값 로깅 AOP
 
+```
+    // 실행 시점 설정 : cut()에 지정된 대상 호출 성공 후!
+    @AfterReturning(value = "cut()", returning = "returnObj")
+    public void loggingReturnValue(JoinPoint joinPoint,     // cut()의 대상 메소드
+                                   Object returnObj) {      // 리턴값
+        // 클래스명
+        String className = joinPoint.getTarget()
+                .getClass()
+                .getSimpleName();
+
+        // 메소드명
+        String methodName = joinPoint.getSignature()
+                .getName();
+
+        // 반환값 로깅
+        // CommentService#create()의 반환값 => CommnetDto(id=10, ...)
+        log.info("{}#{}의 반환값 {}", className, methodName, returnObj);
+
+    }
+```
