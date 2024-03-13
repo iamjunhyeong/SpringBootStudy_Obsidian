@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
+                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 2부.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
+                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 2부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
+                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 2부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md"
+                "file": "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 2부.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "1f622be52a41dfb5",
   "lastOpenFiles": [
+    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
+    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 2부.md",
     "Pasted image 20240313222145.png",
     "Pasted image 20240313222139.png",
     "Pasted image 20240313220922.png",
@@ -155,7 +157,6 @@
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/4부 스프링 부트 활용.md",
     "SpringBoot Inflean 홍팍/29) Ioc와 DI (객체를 주입한다).md",
     "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
-    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/Spring-Boot-Devtools.md",
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/테스트.md",
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/로깅.md",
@@ -172,7 +173,6 @@
     "img/Pasted image 20240313192707.png",
     "img/Pasted image 20240313192627.png",
     "img/Pasted image 20240313192506.png",
-    "img/Pasted image 20240313153051.png",
     "SpringBoot Inflean 홍팍/28) DB 연동하기.md",
     "SpringBoot 개념/톰캣.md",
     "SpringBoot Inflean 홍팍/27) 댓글 삭제 with 자바스크립트.md",
