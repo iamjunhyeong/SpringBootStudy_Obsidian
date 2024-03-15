@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
+                "file": "SpringBoot Inflean 홍팍/19) HTTP와 RestController.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
+                "file": "SpringBoot Inflean 홍팍/19) HTTP와 RestController.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
+                "file": "SpringBoot Inflean 홍팍/19) HTTP와 RestController.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md"
+                "file": "SpringBoot Inflean 홍팍/19) HTTP와 RestController.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "1f622be52a41dfb5",
   "lastOpenFiles": [
+    "SpringBoot Inflean 홍팍/18) RestAPI와 JSON.md",
+    "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
     "SpringBoot Inflean 개념과 활용/프로파일.md",
     "SpringBoot Inflean 개념과 활용/테스트.md",
-    "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
     "SpringBoot Inflean 개념과 활용/2부 스프링 부트 시작하기.md",
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
     "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 2부.md",
@@ -188,7 +189,6 @@
     "SpringBoot Inflean 홍팍/27) 댓글 삭제 with 자바스크립트.md",
     "SpringBoot Inflean 홍팍/07) 폼 데이터 주고 받기.md",
     "SpringBoot Inflean 홍팍/14) 수정 폼 만들기.md",
-    "SpringBoot Inflean 홍팍/18) RestAPI와 JSON.md",
     "``.canvas",
     "SpringBoot Inflean 홍팍",
     "SpringBoot Inflean 개념과 활용/스프링 데이터",

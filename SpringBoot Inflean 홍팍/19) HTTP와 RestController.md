@@ -34,7 +34,7 @@ public class FirstApiController {
 `http://localhost:8080/api/hello`
 ⭐ 이때 우리는 HTTPS가 아닌  HTTP 이므로  수정해준다.
 ![[Pasted image 20240309141932.png]]
-
+				RestController 반환
 ### RestController와 Controller 차이
 
 반환 타입이 다른것을 확인할 수 있다.
