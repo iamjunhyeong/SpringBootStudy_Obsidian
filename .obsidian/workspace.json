@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37d915235aedc6f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot오류.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "598aeabc21e04443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot 오류/ConflictingBeanDefinitionException.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3010f9a71bd3171e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot Inflean 홍팍/14) 수정 폼 만들기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot오류.md",
+                "file": "SpringBoot Inflean 홍팍/14) 수정 폼 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot오류.md",
+                "file": "SpringBoot Inflean 홍팍/14) 수정 폼 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot오류.md"
+                "file": "SpringBoot Inflean 홍팍/14) 수정 폼 만들기.md"
               }
             }
           }
@@ -146,15 +183,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1f622be52a41dfb5",
+  "active": "3010f9a71bd3171e",
   "lastOpenFiles": [
-    "SpringBoot Inflean 홍팍/17) CRUD와 SQL쿼리.md",
-    "SpringBoot Inflean 홍팍/16) 데이터 삭제하기.md",
     "SpringBoot Inflean 홍팍/15) 데이터 수정하기.md",
     "SpringBoot Inflean 홍팍/14) 수정 폼 만들기.md",
     "SpringBoot Inflean 홍팍/13) 링크와 리다이렉트.md",
     "SpringBoot Inflean 홍팍/12) 데이터 목록조회.md",
     "SpringBoot Inflean 홍팍/11) 데이터 조회하기 with JPA.md",
+    "SpringBoot Inflean 홍팍/10) 롬복과 리팩터링.md",
+    "SpringBoot Inflean 홍팍/09) DB테이블과 SQL.md",
+    "SpringBoot Inflean 홍팍/08) 데이터 생성 with JPA.md",
+    "SpringBoot Inflean 홍팍/07) 폼 데이터 주고 받기.md",
+    "SpringBoot Inflean 홍팍/06) 뷰 템플릿과 레이아웃.md",
+    "SpringBoot Inflean 홍팍/05) MVC의 역할과 실행 흐름.md",
+    "SpringBoot Inflean 홍팍/04) 뷰 템플릿과 MVC패턴.md",
+    "SpringBoot Inflean 개념과 활용/테스트.md",
+    "SpringBoot 오류/data.sql 오류.md",
+    "SpringBoot오류.md",
+    "SpringBoot 오류/Tomcat 8080 이미 존재.md",
+    "SpringBoot 오류/ConflictingBeanDefinitionException.md",
+    "SpringBoot 오류",
+    "SpringBoot Inflean 홍팍/17) CRUD와 SQL쿼리.md",
+    "SpringBoot Inflean 홍팍/16) 데이터 삭제하기.md",
     "SpringBoot Inflean 홍팍/18) RestAPI와 JSON.md",
     "SpringBoot Inflean 홍팍/19) HTTP와 RestController.md",
     "SpringBoot Inflean 홍팍/23) 댓글 서비스와 컨트롤러.md",
@@ -162,25 +212,13 @@
     "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
     "SpringBoot Inflean 개념과 활용/2부 스프링 부트 시작하기.md",
     "SpringBoot Inflean 개념과 활용/3부 스프링 부트 원리.md",
-    "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/5부 웹JAR.md",
-    "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/4부 정적 리소스 지원.md",
-    "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/3부 ViewResolve.md",
-    "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/2부 HttpMessageConverters.md",
-    "SpringBoot Inflean 개념과 활용/프로파일.md",
-    "SpringBoot Inflean 개념과 활용/테스트.md",
-    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 1부.md",
-    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용/스프링 시큐리티 2부.md",
-    "SpringBoot Inflean 홍팍/04) 뷰 템플릿과 MVC패턴.md",
-    "SpringBoot Inflean 개념과 활용/스프링 데이터/1부 소개.md",
     "img/Pasted image 20240314005820.png",
-    "HTTP Inflean/2) URI와 웹 브라우저 요청 흐름/2_ 웹 브라우저 요청 흐름.md",
     "img/Pasted image 20240314011831.png",
     "img/Pasted image 20240314011749.png",
     "img/Pasted image 20240314011628.png",
     "img/Pasted image 20240314011600.png",
     "img/Pasted image 20240314011549.png",
     "img/Pasted image 20240314011531.png",
-    "HTTP Inflean/1) 인터넷 네트워크/1_ 인터넷 네트워크.md",
     "img/Pasted image 20240314011301.png",
     "img/Pasted image 20240314011157.png",
     "img/Pasted image 20240314011042.png",
@@ -193,7 +231,6 @@
     "SpringBoot Inflean 홍팍",
     "SpringBoot Inflean 개념과 활용/스프링 데이터",
     "SpringBoot Inflean 개념과 활용/스프링 웹 MVC",
-    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용",
-    "img"
+    "SpringBoot Inflean 개념과 활용/4부 스프링 부트 활용"
   ]
 }

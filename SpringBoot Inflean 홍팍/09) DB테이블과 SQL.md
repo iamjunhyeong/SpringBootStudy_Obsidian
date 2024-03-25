@@ -2,7 +2,7 @@
 ### H2 DB 접속
 
 다음과 같이 작성하여 h2 접속을 허용한다
-```
+```java
 // application.properties
 
 spring.h2.console.enabled=true

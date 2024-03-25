@@ -15,7 +15,7 @@
 ArticleForm : DTO 작성 클래스
 Article : 엔티티 작성 클래스
 
-```
+```java
 @Controller
 public class ArticleController {
 
@@ -44,7 +44,7 @@ public class ArticleController {
 
 `id`라는 기본키를 추가했다. 
 
-```
+```java
 package com.example.springboot_hongpark.entity;
 
 import jakarta.persistence.Column;
@@ -86,7 +86,7 @@ public class Article {
 
 ### 3. Repository를 통해 엔티티 저장
 
-```
+```java
 package com.example.springboot_hongpark.controller;
 
 import com.example.springboot_hongpark.dto.ArticleForm;
@@ -132,7 +132,7 @@ public class ArticleController {
 - **인터페이스**를 생성 후 `JpaRepository<Entity 클래스, PK 타입>`을 상속하면 기본적인 CRUD 메소드가 자동으로 생성된다.
 - `@Repository`를 추가할 필요가 없다.
 
-```
+```java
 package com.example.springboot_hongpark.repository;
 
 import com.example.springboot_hongpark.entity.Article;
@@ -146,7 +146,7 @@ public interface ArticleRepository extends CrudRepository<Article, Long> {
 
 ### 5. 의존성 주입
 
-```
+```java
 @Controller  
 public class ArticleController {  
   

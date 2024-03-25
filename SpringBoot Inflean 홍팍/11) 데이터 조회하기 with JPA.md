@@ -4,7 +4,7 @@ C==R==UD
 
 @PathVariable()
 	url주소 Path로 부터 입력된다라는 뜻
-```
+```java
 // ArticleController.java
 
 @GetMapping("/articles/{id}")  
@@ -20,28 +20,27 @@ findById의 반환타입이 Optional<`T`>이여서 `.orElse(null)`를 붙이도�
 
 `orElse(null)` : 데이터가 없는 경우 null 반환
 
-```
+```java
 // 1. id로 데이터를 가져옴.  
 Article articleEntity = articleRepository.findById(id).orElse(null);
 ```
 
 
 ### 2. 가져온 데이터를 모델에 등록
-```
+```java
 // 2. 가져온 데이터를 모델에 등록.  
 model.addAttribute("article", articleEntity);
 ```
 
 
 ### 3. 보여줄 페이지를 설정
-```
+```java
 // 3. 보여줄 페이지를 설정.
 return "articles/show";
 ```
 
 
-####
-```
+```java
 	// ArticleController.java
 ...
 	
@@ -64,7 +63,7 @@ return "articles/show";
 ### View 생성
 `{{#article}}`로 데이터 가져옴.
 
-```
+```html
 {{>layouts/header}}
 
 <table class="table">

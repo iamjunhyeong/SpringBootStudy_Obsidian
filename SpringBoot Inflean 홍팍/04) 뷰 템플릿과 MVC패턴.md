@@ -27,7 +27,7 @@ MVC패턴 - 분야별 담당
 
 특정 url를 매핑시킨다.
 
-```
+```java
 import org.springframework.stereotype.Controller;  
 import org.springframework.web.bind.annotation.GetMapping;  
   
@@ -36,9 +36,8 @@ public class FirstController {
   
 @GetMapping("/hi")  
 public String niceToMeetYou() {  
-return "greetings";  
+	return "greetings";  
 }  
-}
 ```
 
 ---
@@ -48,7 +47,7 @@ return "greetings";
 
 - ==만든 데이터는 이제 변수로써 View에서 사용할 수 있다.==
 
-```  
+```java
 @GetMapping("/hi")  
 public String niceToMeetYou(Model model) {  
 	model.addAttribute("username", "junhyeong");  
