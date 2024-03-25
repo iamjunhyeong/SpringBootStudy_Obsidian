@@ -8,7 +8,7 @@
 - 기본 구조는 생성자를 통해 최종값을 채운 후 DB에 삽입하는 것.
 - 값 변경이 필요한 경우에는 해당 이벤트에 맞는 public 메소드를 호출하여 변경하는 것
 - @Builder : 롬복에서 제공하는 어노테이션. 객체 생성시 가독성 높여줌.
-```
+```java
 import lombok.Builder;
 import lombok.Getter;
 
