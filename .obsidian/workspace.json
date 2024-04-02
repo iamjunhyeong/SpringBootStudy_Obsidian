@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad714701c75c1e7d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,8 +112,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,9 +193,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3010f9a71bd3171e",
+  "active": "ad714701c75c1e7d",
   "lastOpenFiles": [
     "SpringBoot 오류/Tomcat 8080 이미 존재.md",
+    "SpringBoot오류.md",
+    "SpringBoot 개념/JPA.md",
     "SpringBoot Inflean 홍팍/14) 수정 폼 만들기.md",
     "SpringBoot Inflean 홍팍/15) 데이터 수정하기.md",
     "SpringBoot Inflean 홍팍/13) 링크와 리다이렉트.md",
@@ -201,7 +212,6 @@
     "SpringBoot Inflean 홍팍/04) 뷰 템플릿과 MVC패턴.md",
     "SpringBoot Inflean 개념과 활용/테스트.md",
     "SpringBoot 오류/data.sql 오류.md",
-    "SpringBoot오류.md",
     "SpringBoot 오류/ConflictingBeanDefinitionException.md",
     "SpringBoot 오류",
     "SpringBoot Inflean 홍팍/17) CRUD와 SQL쿼리.md",
@@ -212,7 +222,6 @@
     "SpringBoot Inflean 홍팍/21) 테스트 작성.md",
     "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
     "SpringBoot Inflean 개념과 활용/2부 스프링 부트 시작하기.md",
-    "SpringBoot Inflean 개념과 활용/3부 스프링 부트 원리.md",
     "img/Pasted image 20240314005820.png",
     "img/Pasted image 20240314011831.png",
     "img/Pasted image 20240314011749.png",
