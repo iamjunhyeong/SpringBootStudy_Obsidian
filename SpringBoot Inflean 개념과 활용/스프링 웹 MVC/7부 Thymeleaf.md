@@ -47,7 +47,7 @@
 ```
 
 
-```
+```java
 // SampleController.java
  
 @Controller
@@ -60,7 +60,7 @@ public class SampleController {
 }
 ```
 
-```
+```java
 // SampleControllerTest.java
  
 @RunWith(SpringRunner.class)
@@ -87,7 +87,7 @@ public class SampleControllerTest {
 }
 ```
 
-```
+```java
 // hello.html
  
 <!DOCTYPE html>

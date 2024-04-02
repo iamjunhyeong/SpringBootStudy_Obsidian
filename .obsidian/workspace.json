@@ -59,9 +59,11 @@
             "id": "ad714701c75c1e7d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/7부 Thymeleaf.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot 개념/JPA.md",
+                "file": "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/7부 Thymeleaf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot 개념/JPA.md",
+                "file": "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/7부 Thymeleaf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot 개념/JPA.md"
+                "file": "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/7부 Thymeleaf.md"
               }
             }
           }
