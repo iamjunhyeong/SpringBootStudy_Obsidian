@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/7부 Thymeleaf.md",
+                "file": "SpringBoot 오류/Tomcat 8080 이미 존재.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/7부 Thymeleaf.md",
+                "file": "SpringBoot 오류/Tomcat 8080 이미 존재.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/7부 Thymeleaf.md",
+                "file": "SpringBoot 오류/Tomcat 8080 이미 존재.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/7부 Thymeleaf.md"
+                "file": "SpringBoot 오류/Tomcat 8080 이미 존재.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "ad714701c75c1e7d",
   "lastOpenFiles": [
+    "SpringBoot Inflean 개념과 활용/스프링 웹 MVC/7부 Thymeleaf.md",
     "SpringBoot 오류/Tomcat 8080 이미 존재.md",
     "SpringBoot오류.md",
     "SpringBoot 개념/JPA.md",
@@ -223,7 +224,6 @@
     "SpringBoot Inflean 홍팍/23) 댓글 서비스와 컨트롤러.md",
     "SpringBoot Inflean 홍팍/21) 테스트 작성.md",
     "SpringBoot Inflean 개념과 활용/내장 웹 서버 응용.md",
-    "SpringBoot Inflean 개념과 활용/2부 스프링 부트 시작하기.md",
     "img/Pasted image 20240314005820.png",
     "img/Pasted image 20240314011831.png",
     "img/Pasted image 20240314011749.png",
